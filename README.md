@@ -1,11 +1,12 @@
-# TISCH
-[Tumor Immune Single-cell Hub (TISCH)](http://tisch.comp-genomics.org/home/) is a scRNA-seq database, which focuses on tumor microenvironment (TME). TISCH provides detailed cell-type annotation for all curated datasets, enabling the exploration of TME across different cancer types.
+# TISCH2
+[The updated Tumor Immune Single-cell Hub (TISCH2)](http://tisch.comp-genomics.org/home/) is a scRNA-seq database, which focuses on tumor microenvironment (TME). TISCH provides detailed cell-type annotation for all curated datasets, enabling the exploration of TME across different cancer types.
 
 ## Release 1 - July 11th, 2020
+## Release 2 - September 30th, 2022
 ### Data statistics
-- **28 cancer types**.
-- **79 datasets:** 15 datasets with ICB treatment (10 for human and 5 for mouse), 61 non-ICB datasets and 3 PBMC datasets.
-- **2,045,746 cells:** 378,392 malignant cells and 1,667,354 non-malignant cells.
+- **50 cancer types**.
+- **190 datasets:** 15 datasets with ICB treatment (10 for human and 5 for mouse), 61 non-ICB datasets and 3 PBMC datasets.
+- **6,297,320 cells:** 378,392 malignant cells and 1,667,354 non-malignant cells.
 
 ### Features
 - **Gene module:** Search a gene across species and cancer types.

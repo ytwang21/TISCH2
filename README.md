@@ -6,7 +6,7 @@
 ### Data statistics
 - **50 cancer types**.
 - **190 datasets:** 40 datasets with ICB treatment (35 for human and 5 for mouse), 147 non-ICB datasets and 3 PBMC datasets.
-- **6,297,320 cells:** 378,392 malignant cells and 1,667,354 non-malignant cells.
+- **6,297,320 cells:** 1,227,590 malignant cells and 5,069,730 non-malignant cells.
 
 ### New Functions & Features
 ##### Dataset Module

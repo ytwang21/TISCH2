@@ -14,4 +14,4 @@
 - **CCI analysis:** 1. A heatmap shows an overview of cell-cell interaction number between different cell clusters; 2. The detail interaction information for a selected cluster (circus plot); 3. The significant ligand-receptor pairs in of source and target clusters (bubble plot).
 ##### Gene Module
 - **Survival:** Find the potential transcription factors of each cluster in every dataset.
-- **CCI analysis:** 1. A heatmap shows an overview of cell-cell interaction number between different cell clusters; 2. The detail interaction information for a selected cluster (circus plot); 3. The significant ligand-receptor pairs in of source and target clusters (bubble plot).
+- **Gene-gene correlation:** 1. A heatmap shows an overview of cell-cell interaction number between different cell clusters; 2. The detail interaction information for a selected cluster (circus plot); 3. The significant ligand-receptor pairs in of source and target clusters (bubble plot).

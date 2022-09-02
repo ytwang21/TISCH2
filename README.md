@@ -8,8 +8,10 @@
 - **190 datasets:** 40 datasets with ICB treatment (35 for human and 5 for mouse), 147 non-ICB datasets and 3 PBMC datasets.
 - **6,297,320 cells:** 378,392 malignant cells and 1,667,354 non-malignant cells.
 
-### New Features
-#### Gene module level
-- **Gene module:** Search a gene across species and cancer types.
-- **Single-dataset exploration:** 1. Overview of dataset; 2. Gene expression visualization at both single-cell level (UMAP plot) and cluster level (violin plot); 3. Functional enrichment analysis (GSEA); 4. Download files (cluster-level expression matrices, DE gene table and meta information).
-- **Multiple-dataset comparison:** Compare expression of genes across multiple datasets.
+### New Functions & Features
+##### Dataset Module
+- **TF enrichment:** Find the potential transcription factors of each cluster in every dataset.
+- **CCI analysis:** 1. A heatmap shows an overview of cell-cell interaction number between different cell clusters; 2. The detail interaction information for a selected cluster (circus plot); 3. The significant ligand-receptor pairs in of source and target clusters (bubble plot).
+##### Gene Module
+- **Survival:** Find the potential transcription factors of each cluster in every dataset.
+- **CCI analysis:** 1. A heatmap shows an overview of cell-cell interaction number between different cell clusters; 2. The detail interaction information for a selected cluster (circus plot); 3. The significant ligand-receptor pairs in of source and target clusters (bubble plot).
